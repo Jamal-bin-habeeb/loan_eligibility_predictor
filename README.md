@@ -1,0 +1,1 @@
+I built a Loan Status Prediction model using SVM. I cleaned the data, handled missing values, applied label encoding, converted categorical features, and visualized patterns with Seaborn. After training with a train–test split, my SVC model achieved 83% accuracy.
